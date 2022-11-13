@@ -1,0 +1,13 @@
+active_trading: true
+balance: 1000
+coin_held: 0
+net_worth: 0.0
+open_orders: []
+total_invested: 0
+trade_history:
+- executedQty: 0.00075
+  origQty: 0.00075
+  price: 0.0
+  quoteQty: 30.3375225
+  side: BUY
+  time: '2022-04-15 22:22:33'
